@@ -1,5 +1,7 @@
 # Calculadora Nerd
 
+https://pedroantonioheinrich.github.io/calculadora-nerd/
+
 Bem-vindo à **Calculadora Nerd**! Este projeto é uma calculadora interativa desenvolvida com HTML, CSS e JavaScript, perfeita para entusiastas de tecnologia, programadores e qualquer pessoa que goste de uma interface moderna e funcional.
 
 ## Funcionalidades
