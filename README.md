@@ -20,4 +20,5 @@ Bem-vindo à **Calculadora Nerd**! Este projeto é uma calculadora interativa de
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/calculadora-nerd.git
-![image](https://github.com/user-attachments/assets/394d2b34-ea54-44e5-bdd2-e32f68063601)
+![image](https://github.com/user-attachments/assets/05456eea-9fae-48c9-8465-8ce9c139ef55)
+
